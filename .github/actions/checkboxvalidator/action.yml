@@ -1,0 +1,7 @@
+name: "Checkbox Validator"
+description: "Ensures at least one checkbox is selected from each group in the PR description."
+author: "Your Name"
+inputs: {}
+runs:
+  using: "node16"
+  main: "index.js"
